@@ -73,9 +73,9 @@ Student data is saved in `students.json`, allowing records to remain available e
 
 ```json
 {
-    "101": {
+    "10": {
         "Name": "Rahul Sharma",
-        "Course": "BCA",
+        "Course": "B.tech",
         "Email": "rahul@gmail.com",
         "Phone": "9876543210"
     }
